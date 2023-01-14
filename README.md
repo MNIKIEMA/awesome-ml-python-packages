@@ -13,8 +13,10 @@ A list of some python packages that I am working with.
 - [spaCy](https://spacy.io/)
 - [gensim](https://github.com/RaRe-Technologies/gensim)
 - [🤗 Transformers](https://huggingface.co/)
+- [BERTopic](https://maartengr.github.io/BERTopic/index.html)
+- [flairNLP](https://github.com/flairNLP/flair)
 ## Deep Learning
-- [PyTorch](https://pytorch.org/)
+- [PyTorch](https://pytorch.org)
 - [Keras](https://keras.io/)
 ## Explainability
 - [lime](https://github.com/marcotcr/lime)
