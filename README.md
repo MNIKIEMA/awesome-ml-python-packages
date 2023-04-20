@@ -1,5 +1,5 @@
 # awesome-ml-python-packages
-A list of some python packages that I am working with.
+Useful ML resources that I found.
 ## Data Manipulation
 - [Pandas](https://pandas.pydata.org/)
 ## Scientific Computing
