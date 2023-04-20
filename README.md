@@ -15,6 +15,7 @@ Useful ML resources that I found.
 - [🤗 Transformers](https://huggingface.co/)
 - [BERTopic](https://maartengr.github.io/BERTopic/index.html)
 - [flairNLP](https://github.com/flairNLP/flair)
+- [Snips NLU](https://snips-nlu.readthedocs.io/en/latest/)
 ## Deep Learning
 - [PyTorch](https://pytorch.org)
 - [Keras](https://keras.io/)
