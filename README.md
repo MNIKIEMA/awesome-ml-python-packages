@@ -29,6 +29,7 @@ Curated Collection of Valuable Machine Learning Packages
 - [AutoGen](https://github.com/microsoft/autogen)
 - [vLLM](https://github.com/vllm-project/vllm)
 - [RayLLM](https://github.com/ray-project/ray-llm)
+- [Text Generation Inference](https://github.com/huggingface/text-generation-inference)
 
 ## Deep Learning
 - [PyTorch](https://pytorch.org)
