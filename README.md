@@ -17,7 +17,7 @@ Curated Collection of Valuable Machine Learning Packages
 - [NLTK](https://www.nltk.org/)
 - [spaCy](https://spacy.io/)
 - [gensim](https://github.com/RaRe-Technologies/gensim)
-- [🤗 Transformers](https://huggingface.co/)
+- [🤗 Transformers](https://github.com/huggingface/transformers/tree/main)
 - [BERTopic](https://maartengr.github.io/BERTopic/index.html)
 - [flairNLP](https://github.com/flairNLP/flair)
 - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)
@@ -28,8 +28,12 @@ Curated Collection of Valuable Machine Learning Packages
 - [LlamaIndex](https://github.com/run-llama/llama_index)
 - [AutoGen](https://github.com/microsoft/autogen)
 - [vLLM](https://github.com/vllm-project/vllm)
-- [RayLLM](https://github.com/ray-project/ray-llm)
 - [Text Generation Inference](https://github.com/huggingface/text-generation-inference)
+
+## Tracing
+- [trackio](https://github.com/gradio-app/trackio)
+- [mlflow](https://github.com/mlflow/mlflow)
+- [opik](https://github.com/comet-ml/opik)
 
 ## Deep Learning
 - [PyTorch](https://pytorch.org)
@@ -46,3 +50,4 @@ Curated Collection of Valuable Machine Learning Packages
 - [Deepchecks](https://github.com/deepchecks/deepchecks)
 - [seqeval](https://github.com/chakki-works/seqeval)
 - [ragas](https://github.com/explodinggradients/ragas)
+- [inspect-ai](https://github.com/UKGovernmentBEIS/inspect_ai)
