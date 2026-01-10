@@ -69,3 +69,4 @@ Curated Collection of Valuable Machine Learning Packages
 - [seqeval](https://github.com/chakki-works/seqeval)
 - [ragas](https://github.com/explodinggradients/ragas)
 - [inspect-ai](https://github.com/UKGovernmentBEIS/inspect_ai)
+- [bloom](https://github.com/safety-research/bloom)
