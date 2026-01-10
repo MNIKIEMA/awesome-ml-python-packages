@@ -4,6 +4,7 @@ Curated Collection of Valuable Machine Learning Packages
 - [Pandas](https://pandas.pydata.org/)
 - [Datasets](https://github.com/huggingface/datasets)
 - [narwhals](https://github.com/narwhals-dev/narwhals)
+- [polars](https://github.com/pola-rs/polars)
 
 ## Scientific Computing
 - [NumPy](https://numpy.org/)
