@@ -64,6 +64,7 @@ Curated Collection of Valuable Machine Learning Packages
 
 ## Evaluation
 - [Evaluate](https://github.com/huggingface/evaluate)
+- [lighteval](https://github.com/huggingface/lighteval)
 - [Deepchecks](https://github.com/deepchecks/deepchecks)
 - [seqeval](https://github.com/chakki-works/seqeval)
 - [ragas](https://github.com/explodinggradients/ragas)
