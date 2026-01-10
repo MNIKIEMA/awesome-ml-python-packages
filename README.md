@@ -33,7 +33,7 @@ Curated Collection of Valuable Machine Learning Packages
 - [LlamaIndex](https://github.com/run-llama/llama_index)
 - [AutoGen](https://github.com/microsoft/autogen)
 - [vLLM](https://github.com/vllm-project/vllm)
-- [Text Generation Inference](https://github.com/huggingface/text-generation-inference)
+- [SGLang](https://github.com/sgl-project/sglang/tree/main)
 - [Instructor](https://github.com/567-labs/instructor)
 - [kura](https://github.com/567-labs/kura)
 - [smolagents](https://github.com/huggingface/smolagents)
