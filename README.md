@@ -1,4 +1,5 @@
 # awesome-ml-python-packages
+
 Curated Collection of Valuable Machine Learning Packages
 ## Data Manipulation
 - [Pandas](https://pandas.pydata.org/)
@@ -50,10 +51,12 @@ Curated Collection of Valuable Machine Learning Packages
 - [trackio](https://github.com/gradio-app/trackio)
 - [mlflow](https://github.com/mlflow/mlflow)
 - [opik](https://github.com/comet-ml/opik)
+- [Logfire](https://github.com/pydantic/logfire)
 
 ## Deep Learning
 - [PyTorch](https://pytorch.org)
 - [Keras](https://keras.io/)
+- [JAX](https://github.com/jax-ml/jax)
 
 ## Explainability
 - [lime](https://github.com/marcotcr/lime)
